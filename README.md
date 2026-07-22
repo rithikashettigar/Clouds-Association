@@ -44,3 +44,6 @@ cat index.html
 
 # 6. Copy the HTML file to Apache's public root web directory
 sudo cp index.html /var/www/html/
+
+
+54.165.196.42
