@@ -46,4 +46,4 @@ cat index.html
 sudo cp index.html /var/www/html/
 
 
-54.165.196.42
+link : 54.165.196.42
